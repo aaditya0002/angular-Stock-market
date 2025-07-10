@@ -1,1 +1,6 @@
 Angular-based stock app with user-friendly dashboards for enhanced portfolio experience. Integrated visually appealing designs to facilitate stock management and portfolio monitoring Utilized Firebase as the backend and implemented CRUD functionality for watchlists
+
+
+
+
+
